@@ -1,0 +1,24 @@
+.hero{
+    background-color: #f0ead6;
+    height: 100vh;
+}
+#title{
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+#card{
+    text-align: left;
+    background-color: #d3d3d3;
+    padding: 20px;
+    margin: 20px;
+    width: 466px;
+}
+#project_photo{
+    margin: 20px;
+}
+#projects{
+    background-color: #f2e7ac;
+    padding: 20px;
+}
